@@ -6,3 +6,4 @@ Según la nomenclatura anterior, los interruptores S1 y S2 nunca deben cerrarse 
 S1 y S3 frenan, S2 y S4 frenan.
 
 RASPBERRY
+La Raspberry Pi Pico W es una placa de desarrollo pequeña, económica y muy versátil, diseñada específicamente para el control de hardware y proyectos de Internet de las Cosas (IoT). A diferencia de los modelos tradicionales de Raspberry Pi, no es una computadora donde instalas un sistema operativo completo, sino un microcontrolador que ejecuta un programa específico diseñado por ti. la Pico W cuenta con 26 pines de entrada y salida (GPIO) que trabajan a 3.3V, a través de los cuales puedes conectar todo tipo de componentes externos como pantallas, luces LED, sensores de temperatura o motores.
