@@ -63,7 +63,7 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 ### APORTES INDIVIDUALES
 Integrante: Felipe Iglesias
 
-Tarea realizada: Dibujo del esquema del circuito y explicacion del mismo
+Tarea realizada: Dibujo del esquema del circuito, explicacion del mismo y ensamblaje del robot
 
 Integrante: Bautista García
 
@@ -75,8 +75,8 @@ Tarea realizada: Ensamblaje del robot y aporte al código
 
 Integrante: Valentin Kaminski
 
-Tarea realizada: Realizar el código
+Tarea realizada: Mayor aporte a el código
 
 Integrante: Federico Gil Soria
 
-Tarea realizada: Realizar el código
+Tarea realizada: Mayor aporte a el código
