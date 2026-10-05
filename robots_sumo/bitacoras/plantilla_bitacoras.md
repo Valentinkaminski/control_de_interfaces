@@ -2,11 +2,11 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 
 # BITÁCORA DE PROYECTO – ROBOT SUMO
 
-## Equipo: _______________________________
-## Nombre del Robot: ___asimo___________________
-## Capitán: ______valentin kaminski_________________________
-## Subcapitán: ____federico gilsoria________________________
-## Integrantes:felipe igleias bautista garcia santiago mendez 
+## Equipo: Los Pelacables
+## Nombre del Robot: ASIMO
+## Capitán: Valentin Kaminski
+## Subcapitán: Federico Gil Soria
+## Integrantes: Felipe Igleias, Bautista Garcia, Santiago Mendez, Valentin Kaminski, Federico Gil Soria 
 -
 -
 -
