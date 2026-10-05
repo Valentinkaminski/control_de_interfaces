@@ -28,17 +28,17 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 
 ### Actividades realizadas:
 - Realizamos el diagrama del circuito
--
--
+- Empezamos el código
+- Ensamblamos el robot
 
 ### Problemas encontrados:
--
--
+- Problemas al codear por cofusion del lenguaje
+- Al atornillar el robot no teniamos destornillador
 -
 
 ### Soluciones implementadas o propuestas:
--
--
+- Consultar a la profe y buscar en internet
+- Uasr una tijera como destornillador
 -
 
 ### Pruebas realizadas:
