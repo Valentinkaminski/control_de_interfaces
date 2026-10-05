@@ -23,11 +23,11 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 - Federico Gil Soria
 ### Objetivos de la jornada: 
 - Terminar el código para hacer funcionar el motor
-- Hacer el diagrama de nuestro puente H
+- Hacer el diagrama de nuestro circuito
 - Empezar a ensamblar el robot
 
 ### Actividades realizadas:
--
+- Realizamos el diagrama del circuito
 -
 -
 
@@ -53,28 +53,30 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 
 ### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
 
+
+
 ### Tareas pendientes:
--
+- Probar el código
 -
 -
 
 ### APORTES INDIVIDUALES
-Integrante: ____________________________
+Integrante: Felipe Iglesias
 
-Tarea realizada:
+Tarea realizada: Dibujo del esquema del circuito y explicacion del mismo
 
-Integrante: ____________________________
+Integrante: Bautista García
 
-Tarea realizada:
+Tarea realizada: Ensamblaje del robot 
 
-Integrante: ____________________________
+Integrante: Santiago mendez
 
-Tarea realizada:
+Tarea realizada: Ensamblaje del robot y aporte al código
 
-Integrante: ____________________________
+Integrante: Valentin Kaminski
 
-Tarea realizada:
+Tarea realizada: Realizar el código
 
-Integrante: ____________________________
+Integrante: Federico Gil Soria
 
-Tarea realizada:
+Tarea realizada: Realizar el código
