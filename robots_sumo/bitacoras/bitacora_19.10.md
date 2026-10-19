@@ -6,37 +6,55 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 ## Nombre del Robot: ASIMO
 ## Capitán: Valentin Kaminski
 ## Subcapitán: Federico Gil Soria
-## Integrantes: Felipe Igleias, Bautista Garcia, Santiago Mendez, Valentin Kaminski, Federico Gil Soria 
--
--
--
+## Integrantes: 
+-Bautista Garcia
+
+-Santiago Mendez  
+
+-Valentin Kaminski   
+
+-Federico Gil Soria
 
 ## REGISTRO DE ACTIVIDADES
 ### Fecha: 19/10
 ### Integrantes presentes:
 -Felipe iglesias
+
 -Bautista garcia
+
 -Valentin kaminski
+
 -Federico Gil Soria
+
 -Santiago mendez
 ### Objetivos de la jornada:
 -Finalizar el codigo
+
 -Hacer funcionar el robot
+
 -Diagrama esquematico
+
 -Completar la bitacora del dia de hoy
 
 ### Actividades realizadas:
+
 -Codigo terminado
+
 -El robot funcionando
+
 -Diagrama esquematico terminado
 
 ### Problemas encontrados:
+
 -No habia cables dupont hembra
+
 -No se conectaba la raspberry 
--
+
 
 ### Soluciones implementadas o propuestas:
+
 -Usamos una protoboard por la falta de clables dupont hembra.
+
 -Cambiamos la configuracion de el file en visual
 -
 
